@@ -2,7 +2,7 @@
 Este é um wrapper do jogo **Traffic Rider**, feito para rodar de forma simples e direta no Windows.
 
 ## 📥 Como baixar e jogar?
-1. **Baixe o ZIP** [Link para o arquivo ZIP]
+1. **Baixe o ZIP** https://github.com/LuizmarCardozo/Traffic-Rider/releases/tag/Portavel
 2. **Extraia os arquivos** em uma pasta
 3. **Execute `TrafficRider.exe`** e jogue!
 
